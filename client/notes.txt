@@ -1,0 +1,6 @@
+UI Resources:
+https://www.framer.com/motion/?ref=hackernoon.com
+https://tailwindcss.com/?ref=hackernoon.com
+https://undraw.co/illustrations
+https://ant.design/
+https://storybook.js.org/
